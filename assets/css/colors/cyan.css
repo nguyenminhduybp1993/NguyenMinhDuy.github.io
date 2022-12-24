@@ -1,0 +1,210 @@
+/*
+MAIN COLOR:#52E5AB; (cyan)
+*/
+
+
+
+ /* - ELEMENTS
+================================================*/
+.template-color-52E5AB .cnt-btn,
+.template-color-52E5AB #comments .btn-style:hover,
+.template-color-52E5AB .available .btn-hired,
+.template-color-52E5AB .post-pagination li.pages a:hover
+{
+  color: #fff;
+}
+.template-color-52E5AB .today .im,
+.template-color-52E5AB .cnt-about-bg .professional,
+.template-color-52E5AB .cnt-about-bg .personal,
+.template-color-52E5AB .time,
+.template-color-52E5AB .cnt-services-bg .services,
+.template-color-52E5AB .sidebar-blog .statistics h2,
+.template-color-52E5AB .sidebar-blog .top_posts h2,
+.template-color-52E5AB .sidebar-blog .archives h2,
+.template-color-52E5AB .blog-right .blog_right-search h2,
+.template-color-52E5AB .footer-home h2,
+.template-color-52E5AB .sidebar-blog .facebook h2
+{
+  border-bottom: 1px solid #52E5AB;
+  border-right: 1px solid #52E5AB;
+  border-left: 1px solid #52E5AB;
+}
+.template-color-52E5AB .cnt-about-bg ul li.txt-detail i,
+.template-color-52E5AB .flag,
+.template-color-52E5AB .time,
+.template-color-52E5AB .my-services .icon-box .icon i:hover,
+.template-color-52E5AB .work-filters li a:hover,
+.template-color-52E5AB .work-detail h3,
+.template-color-52E5AB .work-detail .vertical-centered i:hover,
+.template-color-52E5AB .plan .head,
+.template-color-52E5AB .main-blog-cnt  h2,
+.template-color-52E5AB #contact-me i,
+.template-color-52E5AB #header-blog .btn-read-more a:hover,
+.template-color-52E5AB .sidebar-blog .top_posts .top_post_right h3,
+.template-color-52E5AB .blog-right .blog_right-search .blog_search button:hover,
+.template-color-52E5AB .footer-home .go-top i,
+.template-color-52E5AB .footer-home .social-media .btn-style:hover,
+.template-color-52E5AB .intro-header .date-widget h2,
+.template-color-52E5AB .intro-header .date-widget h3,
+.template-color-52E5AB #comments .btn-more:hover,
+.template-color-52E5AB .navbar .btn-more:hover,
+.template-color-52E5AB .navbar .btn-back:hover,
+.template-color-52E5AB .btn-secondary:hover,
+.template-color-52E5AB .cnt-btn:hover,
+.template-color-52E5AB #comments p.count-comments,
+.template-color-52E5AB #comments i.icon-calendar,
+.template-color-52E5AB #comments i.icon-clock,
+.template-color-52E5AB #comments i.icon-bubbles,
+.template-color-52E5AB #comments li.reply-btn:before,
+.template-color-52E5AB #comments li.more-comments:before,
+.template-color-52E5AB #comments .btn-style,
+.template-color-52E5AB .personal-info .intro-sub,
+.template-color-52E5AB .work-filters li a.activefilter,
+.template-color-52E5AB .post-pagination ul li.pagination-first a,
+.template-color-52E5AB .post-pagination ul li.pagination-last a,
+.template-color-52E5AB .post-pagination ul li.pagination-prev a:hover,
+.template-color-52E5AB .post-pagination ul li.pagination-next a:hover,
+.template-color-52E5AB .post-pagination ul li.pages a
+{
+  color: #52E5AB;
+}
+.template-color-52E5AB .timeline .circle
+{
+  border: 4px solid #52E5AB;  
+}
+.template-color-52E5AB .first-item .plan:hover,
+.template-color-52E5AB .second-item .plan:hover,
+.template-color-52E5AB .third-item .plan:hover
+{
+  border:6px solid #52E5AB;
+}
+.template-color-52E5AB .direction-l,
+.template-color-52E5AB .direction-r,
+.template-color-52E5AB .testimonial-cnt,
+.template-color-52E5AB .main-blog-cnt .thumbnail,
+.template-color-52E5AB .sidebar-blog .archives ul.cnt-sidebar li span,
+.template-color-52E5AB .intro-header .date-widget
+{
+  border: 1px solid #52E5AB;
+}
+.template-color-52E5AB .stats .stats-container
+{
+  border-right: 1px solid #52E5AB;
+}
+.template-color-52E5AB .work-detail
+{
+  box-shadow: inset 0 0 0 10px #52E5AB;
+}
+.template-color-52E5AB .testimonial-hr,
+.template-color-52E5AB .contact-me input[type="text"]:focus,
+.template-color-52E5AB .contact-me textarea:focus,
+.template-color-52E5AB .contact-me input[type="email"]:focus,
+.template-color-52E5AB #comments .separator-admin,
+.template-color-52E5AB #comment-form input[type="text"]:focus,
+.template-color-52E5AB #comment-form textarea:focus,
+.template-color-52E5AB #comment-form input[type="email"]:focus,
+.template-color-52E5AB .post-pagination li.current a,
+.template-color-52E5AB .post-pagination li.current a:hover,
+.template-color-52E5AB .post-pagination li.pages a,
+.template-color-52E5AB .post-pagination li.pages a:hover
+{
+  border-color:#52E5AB; 
+}
+.template-color-52E5AB #blog-content .blog-cnt blockquote
+{
+  border-left: 5px solid #52E5AB;
+}
+.template-color-52E5AB .main-blog-cnt
+{
+  border-bottom: 4px solid #52E5AB;
+}
+.template-color-52E5AB .post-detail-bg .post-date,
+.template-color-52E5AB .work-filters li a.activefilter,
+.template-color-52E5AB .work-filters li a:hover
+{
+  border-bottom: 2px solid #52E5AB;
+}
+ /* - BUTTTONS
+================================================*/
+.template-color-52E5AB .cnt-btn,
+.template-color-52E5AB .my-services .icon-box .icon i:hover,
+.template-color-52E5AB .plan .button-p a,
+.template-color-52E5AB #header-blog .btn-read-more a,
+.template-color-52E5AB .footer-home .social-media .btn-style:hover,
+.template-color-52E5AB .btn-secondary:hover,
+.template-color-52E5AB #comments .btn-style,
+.template-color-52E5AB #comments .btn-style:hover,
+.template-color-52E5AB .blog-right .blog_right-search .blog_search input:focus,
+.template-color-52E5AB .available .btn-hired,
+.template-color-52E5AB .cnt-btn-download
+{
+  border: 2px solid #52E5AB;
+}
+.template-color-52E5AB .cnt-btn,
+.template-color-52E5AB .effect-nav a:hover::after,
+.template-color-52E5AB .effect-nav a:focus::after,
+.template-color-52E5AB .cnt-about-bg .legend-about,
+.template-color-52E5AB .cnt-education-bg .legend-education,
+.template-color-52E5AB .cnt-work-bg .legend-work,
+.template-color-52E5AB .cnt-portfolio-bg .legend-portfolio,
+.template-color-52E5AB .cnt-expertise-bg .legend-expertise,
+.template-color-52E5AB .cnt-clients-bg .legend-clients,
+.template-color-52E5AB .cnt-testimonials-bg .legend-testimonials,
+.template-color-52E5AB .cnt-pricing-bg .legend-pricing,
+.template-color-52E5AB .plan .button-p a,
+.template-color-52E5AB .cnt-blog-bg .legend-blog,
+.template-color-52E5AB .cnt-contact-bg .legend-contact,
+.template-color-52E5AB .contact-me input[type="submit"]:hover,
+.template-color-52E5AB .header-blog .legend-hdr-blog,
+.template-color-52E5AB .btn-read-more a,
+.template-color-52E5AB #header-blog .btn-read-more a,
+.template-color-52E5AB .navbar .btn-more,
+.template-color-52E5AB .navbar .btn-back,
+.template-color-52E5AB #comments .btn-more,
+.template-color-52E5AB #comments .btn-style:hover,
+.template-color-52E5AB #comments #admin-tag,
+.template-color-52E5AB #comment-form input[type="submit"]:hover,
+.template-color-52E5AB .available .btn-hired,
+.template-color-52E5AB .cnt-btn-download,
+.template-color-52E5AB .post-pagination li.current a,
+.template-color-52E5AB .post-pagination li.current a:hover,
+.template-color-52E5AB .post-pagination li.pages a:hover
+{
+  background-color: #52E5AB;
+}
+
+.template-color-52E5AB .cnt-professional .social,
+.template-color-52E5AB .btn-blog-read
+{
+  background-color: #52E5AB;
+  border: 2px solid #52E5AB;
+}
+.template-color-52E5AB .cnt-professional .social:hover,
+.template-color-52E5AB .plan .button-p :hover,
+.template-color-52E5AB .btn-blog-read:hover,
+.template-color-52E5AB .available .btn-hired:hover,
+.template-color-52E5AB .cnt-btn-download:hover
+{
+  border: 2px solid #52E5AB;
+  color: #52E5AB;
+  background-color: transparent;
+}
+.template-color-52E5AB .contact-me input[type="submit"]:hover,
+.template-color-52E5AB .navbar .btn-more,
+.template-color-52E5AB .navbar .btn-back,
+.template-color-52E5AB #comments .btn-more,
+.template-color-52E5AB .navbar .btn-more:hover,
+.template-color-52E5AB .navbar .btn-back:hover,
+.template-color-52E5AB #comment-form input[type="submit"]:hover
+{
+  border: 3px solid #52E5AB;
+}
+
+.template-color-52E5AB #comments .btn-more:hover,
+.template-color-52E5AB .navbar .btn-more:hover,
+.template-color-52E5AB .navbar .btn-back:hover,
+.template-color-52E5AB #header-blog .btn-read-more a:hover,
+.template-color-52E5AB .cnt-btn:hover
+{
+  background-color: transparent;
+}
